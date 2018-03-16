@@ -11,8 +11,7 @@
         android:layout_height="56dp"
         android:layout_alignParentTop="true"
         android:background="@color/colorAccent"
-        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar"
-        app:title="Toolbar1" />
+        app:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar" />
     <android.support.v7.widget.Toolbar
         android:id="@+id/toolbar2"
         android:layout_width="match_parent"
